@@ -11,13 +11,16 @@ This repository contains the implementation of an Employee Management System usi
 
 My process for analyzing the data was as follows:
 
-- Data Modeling[#Data-Modeling]: Create a physical data model Entity Relationship Diagram (ERD) using QuickDBD of the 5 CSV files provided.
-- Data Engineering[#Data-Engineering]: Designed and implemented a data base schema to manage employee data efficiently. In order to do this:
+- Data Modeling[#Data-Modeling]
+   Create a physical data model Entity Relationship Diagram (ERD) using QuickDBD of the 5 CSV files provided.
+- Data Engineering[#Data-Engineering]
+   Designed and implemented a data base schema to manage employee data efficiently. In order to do this:
 
               - Mocked up schema
               - Imported table creation schema from prepopulated export in QuickDBD
               - Imported CSV files to their according table
-- Data Analysis[#Data-Analysis]: Wrote query codes in PostgreSQL to answer questions asked through the module.
+- Data Analysis[#Data-Analysis]
+   Wrote query codes in PostgreSQL to answer questions asked through the module.
 ---
 # Date Modeling
 
